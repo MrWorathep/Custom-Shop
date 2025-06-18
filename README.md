@@ -11,7 +11,7 @@
   - Username: `mor_2314`
   - Password: `83r5^_`
 
-> *คุณสามารถใช้ user จริงจาก [FakeStoreAPI users](https://fakestoreapi.com/users) ได้เลย
+> คุณสามารถใช้ user จริงจาก [FakeStoreAPI users](https://fakestoreapi.com/users) ได้เลย
 
 ### 3. เริ่มใช้งาน
 - หน้าแรกแสดงสินค้าทั้งหมด
