@@ -25,8 +25,8 @@
 
 ## 🛠 Tech Stack
 
-- HTML5 + CSS3 (Custom)
-- JavaScript (Vanilla)
+- HTML + CSS
+- JavaScript
 - [Axios](https://axios-http.com/)
 - [FakeStoreAPI](https://fakestoreapi.com/)
 - [Vercel](https://vercel.com/) (deploy)
