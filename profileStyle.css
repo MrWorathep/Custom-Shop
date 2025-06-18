@@ -1,0 +1,86 @@
+.body-profile {
+  width: 90%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.grid-body-profile {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.margin-profile {
+  flex: 1 1 280px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.margin-text-profile {
+  font-size: 14px;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 6px;
+}
+
+.body-input {
+  display: flex;
+}
+
+.input-profile {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.input-profile:focus {
+  border-color: #1abc9c;
+}
+
+.input-profile-email {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+}
+
+.input-profile-email:focus {
+  border-color: #1abc9c;
+}
+
+.body-apply-profile {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.flex-apply-profile {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.apply-profile {
+  background-color: #1abc9c;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  font-size: 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.apply-profile:hover {
+  background-color: #16a085;
+}
