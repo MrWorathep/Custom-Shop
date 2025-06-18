@@ -30,5 +30,3 @@
 - [Axios](https://axios-http.com/)
 - [FakeStoreAPI](https://fakestoreapi.com/)
 - [Vercel](https://vercel.com/) (deploy)
-
----
